@@ -21,6 +21,7 @@ py==1.8.0
 PyMySQL==0.9.3
 pypiwin32==223
 pytest==4.4.2
+pytest-ordering==0.6
 python-dateutil==2.7.5
 pytz==2018.7
 pywin32==224
@@ -28,3 +29,4 @@ requests==2.21.0
 selenium==3.141.0
 six==1.12.0
 suds-jurko==0.6
+

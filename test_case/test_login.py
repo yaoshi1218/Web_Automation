@@ -7,6 +7,7 @@ from pages.home_page import HomePage
 from test_data.login_data import *
 
 
+@pytest.mark.run(order=1)
 @pytest.mark.login
 class TestLogin:
     """登录测试类"""

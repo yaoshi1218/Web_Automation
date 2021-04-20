@@ -17,7 +17,7 @@ openpyxl==2.5.12
 pandas==0.23.4
 pluggy==0.11.0
 protobuf==3.7.1
-py==1.8.0
+py==1.10.0
 PyMySQL==0.9.3
 pypiwin32==223
 pytest==4.4.2
